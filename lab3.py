@@ -15,5 +15,4 @@ if loan>salary*10:
     print("Reason: Loan too high")
     pass
 month = int(input("Months to pay: "))
-int(input("Months to pay: "))
-
+print("Loan with interest:", (loan*1.10))
